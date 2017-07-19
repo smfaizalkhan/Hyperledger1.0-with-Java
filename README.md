@@ -84,6 +84,9 @@ PreRequsites
         Create a new Project from eclipse 
         Import exiting Maven projects into created Project in eclipse
         
+        ![screenshot from 2017-07-19 17-39-53](https://user-images.githubusercontent.com/22238550/28369611-33452f18-6ca9-11e7-9ad4-460fb0c4e9d8.png)
+
+        
   As  the containers are running and now we have the project in ecipse ,place a breakpoint and run End2EndITtest.java as Junit 
         
 
